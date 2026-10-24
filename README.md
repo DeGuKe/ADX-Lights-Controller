@@ -2,6 +2,8 @@
 
 一款用于ADX闲置灯光控制与测试的开源软件。它通过 COM21 控制八个外键和框体灯；游戏或 AMDaemon 运行时暂停操作，并在每次发送后释放串口。
 
+**下载：**[Windows 运行包 v1.0.0](https://github.com/DeGuKe/ADX-Lights-Controller/raw/refs/heads/main/downloads/ADX-Lights-Controller-v1.0.0-win.zip) · [源码包 v1.0.0](https://github.com/DeGuKe/ADX-Lights-Controller/raw/refs/heads/main/downloads/ADX-Lights-Controller-v1.0.0-source.zip)。运行包解压后双击 `ADX-Lights-Controller.exe`。
+
 ## 功能
 
 - 一键关闭全部灯光或点亮全部白灯。
